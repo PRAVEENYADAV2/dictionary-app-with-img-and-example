@@ -1,2 +1,2 @@
-# dictionary-app-with-img-and-example
-# OOP JAVASCRIPT
+# dictionary-app-with-img-and-example USING OOP JAVASCRIPT
+
